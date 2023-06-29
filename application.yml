@@ -1,7 +1,4 @@
- application:
-         name: CONFIG-default
-      
-        
+   
 eureka:
   instance:
     prefer-ip-address: true
